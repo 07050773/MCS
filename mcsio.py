@@ -1,1 +1,2 @@
-print('Python')
+#!/usr/
+print("Python")
